@@ -1,0 +1,17 @@
+/* src/ColorPicker.css */
+.color-picker {
+    text-align: center;
+  }
+  
+  .color-box {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .color-list {
+    display: flex;
+    justify-content: center;
+  }
+  
